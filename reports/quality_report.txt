@@ -1,0 +1,12 @@
+
+=== RAPORT POPRAWY JAKOŚCI DANYCH ===
+Łączna liczba rekordów: 100
+Liczba poprawnych rekordów: 76
+Liczba duplikatów pesel przed usunięciem: 6
+Liczba rekordów z brakującym e-mailem: 8
+Liczba niepoprawnych pesel-i: 10
+
+Pliki wynikowe:
+✔ data/clients_data_CLEANED.csv - poprawione dane
+✔ data/clients_data_missing.csv - klienci bez uzupełnionego e-maila
+✔ data/clients_data_invalid_pesel.csv - klienci z niepoprawnym pesel-em

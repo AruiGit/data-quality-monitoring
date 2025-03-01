@@ -1,4 +1,4 @@
-Imię,Nazwisko,PESEL,Email,Telefon,Adres,DataUrodzenia
+first_name,last_name,pesel,email,phone,addres,birth_date
 Agnieszka,Glonek,08210131932,mikolajfogt@stowarzyszenie.org,510 787 695,"ulica Wybickiego 83/47
 90-664 Tarnów",1989-03-20
 Karol,Rejniak,89090220608,maciej07@ppuh.com,+48 733 085 511,"aleja Rycerska 01

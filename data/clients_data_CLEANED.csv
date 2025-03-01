@@ -1,12 +1,8 @@
-Imię,Nazwisko,PESEL,Email,Telefon,Adres,DataUrodzenia
-Agnieszka,Glonek,08210131932,mikolajfogt@stowarzyszenie.org,510 787 695,"ulica Wybickiego 83/47
-90-664 Tarnów",1989-03-20
+first_name,last_name,pesel,email,phone,addres,birth_date
 Karol,Rejniak,89090220608,maciej07@ppuh.com,+48 733 085 511,"aleja Rycerska 01
 92-116 Środa Wielkopolska",1999-06-23
 Malwina,Pacewicz,71092614396,hubert49@fundacja.net,508 309 803,"plac Skrajna 823
 02-735 Rybnik",1968-08-20
-Witold,Ciuła,10282053085,rmordal@interia.pl,+48 726 026 456,"plac Glówna 55/55
-54-674 Świętochłowice",1957-12-06
 Melania,Gotfryd,88020808936,tpodeszwa@mucka.net,+48 507 939 528,"al. Warszawska 793
 79-114 Brodnica",1944-03-01
 Emil,Cop,85040813584,wojslawewelina@onet.pl,881 085 991,"pl. Azaliowa 17/69
@@ -31,14 +27,8 @@ Agnieszka,Szmuc,24272934317,oskar53@gabinety.com,+48 575 963 724,"pl. Ceglana 94
 26-522 Czerwionka-Leszczyny",1989-04-15
 Paweł,Grygorowicz,71090587289,dominik52@hotmail.com,882 148 637,"plac Rzemieślnicza 74/56
 73-303 Świętochłowice",1958-08-15
-Bruno,Andrejczuk,07252587875,mbacia@gmail.com,+48 667 262 645,"plac Bolesława Chrobrego 52
-02-047 Polkowice",1995-05-11
-Tymoteusz,Myszak,08260151056,kornel06@lasak.pl,692 093 153,"al. Majowa 49/31
-18-402 Konin",1958-02-23
 Olga,Huber,74061686121,apoloniahelman@fpuh.org,+48 783 140 258,"ul. Rynek 94
 73-067 Kołobrzeg",2002-01-02
-Piotr,Celuch,05252800253,bielensonia@gmail.com,537 575 404,"al. Stroma 74
-40-035 Lębork",1973-01-06
 Kornelia,Kuliberda,74012319874,kornelburczak@o2.pl,515 509 353,"ul. Strażacka 60/91
 81-124 Tychy",1947-10-12
 Witold,Durlik,14242353837,siciarzsylwia@interia.pl,886 140 046,"pl. Krzywa 519
@@ -137,38 +127,26 @@ Fryderyk,Ludwisiak,96031242447,robert89@gmail.com,+48 32 108 88 38,"al. Piekarsk
 14-580 Wejherowo",1981-10-31
 Tola,Zachwieja,85101053687,kleinakonrad@hotmail.com,+48 736 790 184,"ul. Kossaka 74
 49-064 Tomaszów Mazowiecki",1985-09-09
-Krzysztof,Puch,08252442809,martynmarianna@onet.pl,724 166 599,"al. Kowalska 62
-42-399 Mysłowice",1976-10-23
 Krystyna,Dumała,91101722953,solisjacek@fpuh.net,+48 604 649 607,"plac Świerczewskiego 36
 30-483 Dębica",2005-07-25
 Marika,Tułacz,14301109483,reckooskar@sasiadek.com,727 156 423,"plac Zbożowa 75
 47-639 Iława",2006-06-05
-Tobiasz,Kobos,01252503974,korneliabobko@janczarek.com,881 513 477,"al. Odrzańska 87/21
-84-678 Jarosław",1977-09-15
 Piotr,Gozdur,16280446216,makosjacek@yahoo.com,+48 603 275 648,"ulica Wypoczynkowa 267
 78-895 Pszczyna",1994-12-29
-Karol,Gonet,00231150307,domiannatasza@interia.pl,+48 698 961 973,"ul. Kasprowicza 57
-12-246 Gorzów Wielkopolski",1994-06-10
 Sandra,Elert,71031573322,vjalowiec@hotmail.com,+48 793 797 004,"plac Tysiąclecia 07/18
 54-527 Koszalin",1970-01-17
 Kornelia,Matla,77080800945,jeremichowaniak@interia.pl,570 360 849,"ulica Strumykowa 24
 39-069 Szczecinek",1956-06-28
 Alex,Lenda,89011355433,jan26@o2.pl,+48 697 537 086,"pl. Tysiąclecia 39
 42-626 Ełk",1999-03-13
-Ignacy,Soliwoda,05220899289,kamilasiara@sztuczka-pietrusiak.com,+48 603 503 765,"ul. Morcinka 15
-97-162 Mława",1950-03-04
 Julian,Brojek,99033049869,bmlotek@interia.pl,518 353 315,"ulica Chabrowa 261
 72-461 Żary",1970-04-21
-Eliza,Dybał,01322905097,arkadiuszlison@gmail.com,881 666 501,"ul. Jagodowa 552
-57-466 Szczecinek",1997-06-28
 Mariusz,Lenik,74101494637,gamonblanka@wawryniuk.pl,22 501 56 02,"ulica Kaliska 601
 16-354 Wejherowo",1967-10-15
 Jerzy,Broniek,87082542174,xzyto@o2.pl,+48 503 596 282,"al. Wypoczynkowa 637
 19-671 Starogard Gdański",2000-01-06
 Ewa,Szczypiór,93110982715,szymon64@fpuh.com,+48 780 695 622,"aleja Żeglarska 732
 02-523 Wieluń",1996-06-07
-Melania,Wocial,05281258821,kgos@interia.pl,+48 539 963 322,"ulica Błękitna 14
-42-440 Skawina",1983-10-21
 Arkadiusz,Dobosiewicz,94062495393,rraba@spoldzielnia.com,+48 725 008 495,"plac Zdrojowa 41/76
 65-074 Żary",1970-07-30
 Przemysław,Krüger,91042825366,estanislawczyk@interia.pl,+48 737 710 857,"al. Gołębia 24/87
@@ -179,17 +157,3 @@ Olaf,Biernacik,94021084497,mwasiewicz@fpuh.net,22 921 74 42,"pl. Krzywa 11
 32-087 Kutno",1971-06-05
 Maks,Lukas,22321924067,ctokaj@gmail.com,510 013 603,"al. Źródlana 17
 83-309 Olkusz",1983-03-08
-Stanisław,Bzdęga,16291116872,NULL,+48 735 725 493,"ulica Staszica 61/59
-85-710 Płońsk",1996-12-13
-Angelika,Kieca,14272601957,NULL,724 050 901,"pl. Źródlana 41/66
-72-275 Bielsk Podlaski",1986-03-18
-Jeremi,Labus,85022081972,NULL,+48 32 857 57 98,"ul. Chmielna 39/46
-74-998 Koło",1997-11-26
-Jakub,Amanowicz,93062827067,NULL,+48 531 554 618,"ulica Piękna 13
-38-975 Września",1958-02-18
-Kornel,Hass,80091428880,NULL,+48 22 368 15 88,"pl. Młynarska 21
-67-985 Nowy Dwór Mazowiecki",1956-12-15
-Iwo,Dziugieł,14241870515,NULL,602 721 927,"aleja Kowalska 285
-79-631 Chorzów",1952-03-25
-Aleksander,Klepka,89092187222,NULL,+48 693 234 118,"ulica Ciasna 435
-05-573 Włocławek",1951-10-17

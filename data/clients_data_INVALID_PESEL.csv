@@ -1,0 +1,21 @@
+first_name,last_name,pesel,email,phone,addres,birth_date,valid_pesel
+Agnieszka,Glonek,8210131932,mikolajfogt@stowarzyszenie.org,510 787 695,"ulica Wybickiego 83/47
+90-664 Tarnów",1989-03-20,False
+Bruno,Andrejczuk,7252587875,mbacia@gmail.com,+48 667 262 645,"plac Bolesława Chrobrego 52
+02-047 Polkowice",1995-05-11,False
+Tymoteusz,Myszak,8260151056,kornel06@lasak.pl,692 093 153,"al. Majowa 49/31
+18-402 Konin",1958-02-23,False
+Piotr,Celuch,5252800253,bielensonia@gmail.com,537 575 404,"al. Stroma 74
+40-035 Lębork",1973-01-06,False
+Krzysztof,Puch,8252442809,martynmarianna@onet.pl,724 166 599,"al. Kowalska 62
+42-399 Mysłowice",1976-10-23,False
+Tobiasz,Kobos,1252503974,korneliabobko@janczarek.com,881 513 477,"al. Odrzańska 87/21
+84-678 Jarosław",1977-09-15,False
+Karol,Gonet,231150307,domiannatasza@interia.pl,+48 698 961 973,"ul. Kasprowicza 57
+12-246 Gorzów Wielkopolski",1994-06-10,False
+Ignacy,Soliwoda,5220899289,kamilasiara@sztuczka-pietrusiak.com,+48 603 503 765,"ul. Morcinka 15
+97-162 Mława",1950-03-04,False
+Eliza,Dybał,1322905097,arkadiuszlison@gmail.com,881 666 501,"ul. Jagodowa 552
+57-466 Szczecinek",1997-06-28,False
+Melania,Wocial,5281258821,kgos@interia.pl,+48 539 963 322,"ulica Błękitna 14
+42-440 Skawina",1983-10-21,False
