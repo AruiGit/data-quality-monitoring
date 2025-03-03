@@ -1,11 +1,9 @@
 import pandas as pd
 
-# Wczytanie danych i wyczyszczenie nazw kolumn
 df = pd.read_csv("data/clients_data_ERRORS.csv")
-df.columns = df.columns.str.strip().str.lower()  # Usunięcie białych znaków i zamiana na małe litery
+df.columns = df.columns.str.strip().str.lower() 
 
-# Sprawdzenie, czy wymagane kolumny istnieją
-required_columns = {"pesel", "email", "phone"}
+required_columns = {"pesel", "email", "phone", "first_name", "last_name", "birth_date", "pesel"}
 missing_columns = required_columns - set(df.columns)
 if missing_columns:
     raise ValueError(f"BŁĄD: Brak wymaganych kolumn w pliku CSV: {missing_columns}")

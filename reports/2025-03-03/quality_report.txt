@@ -7,6 +7,6 @@ Liczba rekordów z brakującym e-mailem: 8
 Liczba niepoprawnych pesel-i: 10
 
 Pliki wynikowe:
-✔ data/clients_data_CLEANED.csv - poprawione dane
-✔ data/clients_data_missing.csv - klienci bez uzupełnionego e-maila
-✔ data/clients_data_invalid_pesel.csv - klienci z niepoprawnym pesel-em
+✔ data/todays_date/clients_data_CLEANED.csv - poprawione dane
+✔ data/todays_date/clients_data_missing.csv - klienci bez uzupełnionego e-maila
+✔ data/todays_date/clients_data_invalid_pesel.csv - klienci z niepoprawnym pesel-em
